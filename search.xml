@@ -4,6 +4,60 @@
   
     
     <entry>
+      <title>01-05-02_小球光滑圆弧角速度</title>
+      <link href="/2020/02/18/01-05-02-xiao-qiu-guang-hua-yuan-hu-jiao-su-du/"/>
+      <url>/2020/02/18/01-05-02-xiao-qiu-guang-hua-yuan-hu-jiao-su-du/</url>
+      
+        <content type="html"><![CDATA[<h1 id="01-05-02-小球光滑圆弧角速度"><a href="#01-05-02-小球光滑圆弧角速度" class="headerlink" title="01-05-02-小球光滑圆弧角速度"></a>01-05-02-小球光滑圆弧角速度</h1><h2 id="题目"><a href="#题目" class="headerlink" title="题目"></a>题目</h2><p>一质量为$\ m \ $的光滑小球最初位于如图1所示的$\ A \ $点，然后沿半径为$\ R \ $的光滑圆弧的内表面$\ ADCB \ $下滑，试求小球在$\ C \ $处时的角速度。</p><img src="/2020/02/18/01-05-02-xiao-qiu-guang-hua-yuan-hu-jiao-su-du/1569210922011.png" alt="1569210922011" style="zoom:40%;"><h2 id="解题步骤"><a href="#解题步骤" class="headerlink" title="解题步骤"></a>解题步骤</h2><p>如图2所示，对$\ C \ $处的小球受力分析可知，小球在圆弧的支持力$\ N \ $和重力$\ mg \ $的作用下做圆周运动</p><img src="/2020/02/18/01-05-02-xiao-qiu-guang-hua-yuan-hu-jiao-su-du/1569210951545.png" alt="1569210951545" style="zoom:40%;"><p>故，由牛顿第二定律可知，在小球运动的切向：<br>$$<br>-mg \sin \varphi = m \frac{dv}{dt} \tag{1}<br>$$<br>在小球运动的法向：<br>$$<br>N - mg \cos \varphi = m \frac{v^2}{R} \tag{2}<br>$$<br>由微分原理可得：<br>$$<br>\frac{dv}{dt} = \frac{dv}{d \varphi} \cdot \frac{d \varphi}{dt} = \omega \frac{dv}{d \varphi} = \frac{v}{R} \frac{dv}{d \varphi} \tag{3}<br>$$<br>将(3)式代入到(1)式中，化简可得：<br>$$<br>-mg \sin \varphi = m \frac{v}{R} \frac{dv}{d \varphi} \tag{4}<br>$$<br>即，化简可得：<br>$$<br>\displaystyle \int_{- \frac{\pi}{2}}^{\varphi}{-R g \sin \varphi d \varphi} = \int_{0}^{v}{v dv} \tag{5}<br>$$<br>故，解得：<br>$$<br>v = \sqrt{2Rg \cos \varphi} \tag{6}<br>$$<br>即，运动角速度为：<br>$$<br>\omega = \frac{v}{R} = \sqrt{\frac{2g \cos \varphi}{R}} \tag{7}<br>$$</p><h2 id="思维拓展"><a href="#思维拓展" class="headerlink" title="思维拓展"></a>思维拓展</h2><p>将(6)式代入到(2)式中，化简可得支持力为：<br>$$<br>N = 3mg \cos \varphi \tag{8}<br>$$</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 高中物理竞赛典型例题精讲 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高中物理竞赛 </tag>
+            
+            <tag> 运动学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>01-05-01-阻力正比速度下的运动规律</title>
+      <link href="/2020/02/18/01-05-01-zu-li-zheng-bi-su-du-xia-de-yun-dong-gui-lu/"/>
+      <url>/2020/02/18/01-05-01-zu-li-zheng-bi-su-du-xia-de-yun-dong-gui-lu/</url>
+      
+        <content type="html"><![CDATA[<h1 id="01-05-01-阻力正比速度下的运动规律"><a href="#01-05-01-阻力正比速度下的运动规律" class="headerlink" title="01-05-01-阻力正比速度下的运动规律"></a>01-05-01-阻力正比速度下的运动规律</h1><h2 id="题目"><a href="#题目" class="headerlink" title="题目"></a>题目</h2><p>一质点以初速度$\ v_0 \ $作直线运动，所受的阻力与其速度成正比，试求当质点速度为$\ \frac{v_0}{n} (n &gt; 1)\ $时，质点经过的距离与质点所能行经的总距离之比。</p><img src="/2020/02/18/01-05-01-zu-li-zheng-bi-su-du-xia-de-yun-dong-gui-lu/1565591782856.png" alt="1565591782856" style="zoom: 50%;"><h2 id="解题步骤"><a href="#解题步骤" class="headerlink" title="解题步骤"></a>解题步骤</h2><p>由牛顿第二定律可知，质点由于受到阻力$\ f \ $的作用，而产生了反向的加速度$\ a \ $，且取运动的方向为正方向，故可得：<br>$$<br>f = - ma \tag{1}<br>$$<br>由题意可知，其受到的阻力$\ f \ $与速度成正比，不妨设比例系数为$\ k \ $，即：<br>$$<br>f = kv \tag{2}<br>$$<br>即，可得：<br>$$<br>a = - \frac{k}{m} v \tag{3}<br>$$<br>不妨设$\ K = \frac{k}{m} \ $，则由加速度定义可得：<br>$$<br>a = \frac{dv}{dt} = - Kv \tag{4}<br>$$<br>即：<br>$$<br>-Kdt = \frac{1}{v} dv \tag{5}<br>$$</p><p>故，积分可得：<br>$$<br>-Kt = \ln v + C \tag{6}<br>$$<br>代入初始条件，即当$\ t = 0 \ $时，$\ v = v_0 \ $，可解得：<br>$$<br>C = - \ln v_0 \tag{7}<br>$$<br>故，代入到(6)式可化简为：<br>$$<br>v = v_0 e^{-Kt} \tag{8}<br>$$<br>由速度定义可得：<br>$$<br>\frac{ds}{dt} = v_0 e ^{-Kt} \tag{9}<br>$$<br>故，积分可得：<br>$$<br>s = - \frac{v_0}{k} e ^{-Kt} + C \tag{10}<br>$$<br>代入初始条件，即当$\ t = 0 \ $时，$\ s = 0 \ $，可解得：<br>$$<br>C = \frac{v_0}{K} \tag{11}<br>$$<br>故，代入到(10)式可化简为：<br>$$<br>s = \frac{v_0}{K} - \frac{v_0}{K} e^{-Kt} \tag{12}<br>$$<br>故，由(12)式可知，当$\ t \rightarrow + \infty \ $时，即质点能够行经的总距离为：<br>$$<br>s_{max} = \frac{v_0}{K} \tag{13}<br>$$<br>由题意可知，当$\ v = \frac{v_0}{n} \ $时，代入到(8)式，可解得：<br>$$<br>t = \frac{\ln n}{K} \tag{14}<br>$$<br>将上式代入到(12)式，可得质点经过得距离为：<br>$$<br>s = \frac{v_0}{K} \big(1 - \frac{1}{n} \big) \tag{15}<br>$$<br>故，可得：<br>$$<br>\frac{s}{s_{max}} = 1 - \frac{1}{n} \tag{16}<br>$$<br>即：<br>$$<br>\frac{v}{v_0} + \frac{s}{s_{max}} = 1 \tag{17}<br>$$</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 高中物理竞赛典型例题精讲 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高中物理竞赛 </tag>
+            
+            <tag> 运动学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>02-01-01_薄杯重心</title>
       <link href="/2020/02/18/02-01-01-bo-bei-chong-xin/"/>
       <url>/2020/02/18/02-01-01-bo-bei-chong-xin/</url>
@@ -13,7 +67,7 @@
       
       <categories>
           
-          <category> National-Physics-Olympiad </category>
+          <category> 高中物理竞赛典型例题精讲 </category>
           
       </categories>
       

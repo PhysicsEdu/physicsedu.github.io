@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://physicsedu.github.io/"/>
-  <updated>2020-02-18T12:14:16.000Z</updated>
+  <updated>2020-02-18T14:39:00.000Z</updated>
   <id>http://physicsedu.github.io/</id>
   
   <author>
@@ -17,11 +17,69 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>01-05-02_小球光滑圆弧角速度</title>
+    <link href="http://physicsedu.github.io/2020/02/18/01-05-02-xiao-qiu-guang-hua-yuan-hu-jiao-su-du/"/>
+    <id>http://physicsedu.github.io/2020/02/18/01-05-02-xiao-qiu-guang-hua-yuan-hu-jiao-su-du/</id>
+    <published>2020-02-18T14:28:03.000Z</published>
+    <updated>2020-02-18T14:39:00.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;01-05-02-小球光滑圆弧角速度&quot;&gt;&lt;a href=&quot;#01-05-02-小球光滑圆弧角速度&quot; class=&quot;headerlink&quot; title=&quot;01-05-02-小球光滑圆弧角速度&quot;&gt;&lt;/a&gt;01-05-02-小球光滑圆弧角速度&lt;/h1&gt;&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="高中物理竞赛典型例题精讲" scheme="http://physicsedu.github.io/categories/%E9%AB%98%E4%B8%AD%E7%89%A9%E7%90%86%E7%AB%9E%E8%B5%9B%E5%85%B8%E5%9E%8B%E4%BE%8B%E9%A2%98%E7%B2%BE%E8%AE%B2/"/>
+    
+    
+      <category term="高中物理竞赛" scheme="http://physicsedu.github.io/tags/%E9%AB%98%E4%B8%AD%E7%89%A9%E7%90%86%E7%AB%9E%E8%B5%9B/"/>
+    
+      <category term="运动学" scheme="http://physicsedu.github.io/tags/%E8%BF%90%E5%8A%A8%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>01-05-01-阻力正比速度下的运动规律</title>
+    <link href="http://physicsedu.github.io/2020/02/18/01-05-01-zu-li-zheng-bi-su-du-xia-de-yun-dong-gui-lu/"/>
+    <id>http://physicsedu.github.io/2020/02/18/01-05-01-zu-li-zheng-bi-su-du-xia-de-yun-dong-gui-lu/</id>
+    <published>2020-02-18T14:27:39.000Z</published>
+    <updated>2020-02-18T14:38:26.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;01-05-01-阻力正比速度下的运动规律&quot;&gt;&lt;a href=&quot;#01-05-01-阻力正比速度下的运动规律&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="高中物理竞赛典型例题精讲" scheme="http://physicsedu.github.io/categories/%E9%AB%98%E4%B8%AD%E7%89%A9%E7%90%86%E7%AB%9E%E8%B5%9B%E5%85%B8%E5%9E%8B%E4%BE%8B%E9%A2%98%E7%B2%BE%E8%AE%B2/"/>
+    
+    
+      <category term="高中物理竞赛" scheme="http://physicsedu.github.io/tags/%E9%AB%98%E4%B8%AD%E7%89%A9%E7%90%86%E7%AB%9E%E8%B5%9B/"/>
+    
+      <category term="运动学" scheme="http://physicsedu.github.io/tags/%E8%BF%90%E5%8A%A8%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
     <title>02-01-01_薄杯重心</title>
     <link href="http://physicsedu.github.io/2020/02/18/02-01-01-bo-bei-chong-xin/"/>
     <id>http://physicsedu.github.io/2020/02/18/02-01-01-bo-bei-chong-xin/</id>
     <published>2020-02-18T11:14:19.000Z</published>
-    <updated>2020-02-18T12:14:16.000Z</updated>
+    <updated>2020-02-18T14:25:14.000Z</updated>
     
     <summary type="html">
     
@@ -36,7 +94,7 @@
     </summary>
     
     
-      <category term="National-Physics-Olympiad" scheme="http://physicsedu.github.io/categories/National-Physics-Olympiad/"/>
+      <category term="高中物理竞赛典型例题精讲" scheme="http://physicsedu.github.io/categories/%E9%AB%98%E4%B8%AD%E7%89%A9%E7%90%86%E7%AB%9E%E8%B5%9B%E5%85%B8%E5%9E%8B%E4%BE%8B%E9%A2%98%E7%B2%BE%E8%AE%B2/"/>
     
     
       <category term="高中物理竞赛" scheme="http://physicsedu.github.io/tags/%E9%AB%98%E4%B8%AD%E7%89%A9%E7%90%86%E7%AB%9E%E8%B5%9B/"/>
